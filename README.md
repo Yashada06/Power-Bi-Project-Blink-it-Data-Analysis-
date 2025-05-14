@@ -49,7 +49,7 @@ Sales peaked around 2018-2019 (~205K) before stabilizing
 Consistent 4-star ratings across product categories
 Tier 3 stores contribute approximately 39% of total revenue
 
-🛠️ Technical Details
+ Technical Details
 Built With
 
 Microsoft Power BI
