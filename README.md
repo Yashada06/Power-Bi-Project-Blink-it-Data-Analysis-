@@ -62,20 +62,7 @@ Blinkit transaction database
 Customer reviews system
 Store management database
 
- Installation & Setup
-
-Clone this repository
-
-bashgit clone https://github.com/yourusername/blinkit-analytics-dashboard.git
-
-Open the .pbix file with Power BI Desktop
-
-Blinkit_Dashboard.pbix
-
-Connect to your data source by configuring the parameters in the Power Query Editor
-Refresh the data and publish to your Power BI workspace
-
- Usage Guidelines
+Usage Guidelines
 
 Filtering Data: Use the slicers on the left panel to filter by outlet type, size, and item categories
 Drilling Down: Click on any chart element to drill down into detailed information
