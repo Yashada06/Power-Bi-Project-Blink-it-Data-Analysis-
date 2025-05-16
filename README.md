@@ -1,4 +1,4 @@
-# Power-Bi-Project-You Tube-Data-Analysis-
+# Power-Bi-Project-You-Tube-Trend-Video-Data-Analysis-
 
 Objective :
 Uncover patterns in trending videos by analyzing YouTube datasets across regions.
