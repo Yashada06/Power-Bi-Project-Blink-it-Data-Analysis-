@@ -10,21 +10,21 @@ Tools Used :
 Microsoft Excel , Microsoft Power Bi
 
 Steps Involved in Building the Project :
-➢
+
 Uploaded data into power bi.
-➢
+
 Transformed data : Removed null values , Removed duplicates , Removed unwanted columns , Cheked for data types.
-➢
+
 Calculated DAX queries for Category count, Estimated earnings, Most popular category, Most subscribe, Most viewed channel, Top earner, Total estimated earning, Total subscribers, Total Uploads, Total Views.
-➢
+
 Created slicers for different countries.
-➢
+
 Created cards for Total Youbers, Most Viewed Channel, Most Subscribed Channel, Category, Top Earner.
-➢
+
 Created pie chart for video views by category.
-➢
+
 Created line chart for top 5 youtubers by views.
-➢
+
 Created stacked bar chart for top 5 subscribers by uploads.
 ➢
 Created treemap for top 5 youtubers by subscribers.
