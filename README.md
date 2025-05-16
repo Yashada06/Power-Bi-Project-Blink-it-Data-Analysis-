@@ -1,75 +1,34 @@
-# Power-Bi-Project-Blink-it-Data-Analysis-
+# Power-Bi-Project-You Tube-Data-Analysis-
 
- Overview
-The Blinkit Analytics Dashboard is a comprehensive Power BI solution designed to visualize and analyze sales performance, customer satisfaction metrics, and store distribution for Blinkit, India's Last Minute App. This dashboard provides stakeholders with actionable insights to drive strategic decision-making and optimize business operations.
- Features
+Objective :
+Uncover patterns in trending videos by analyzing YouTube datasets across regions.
+Introduction :
+Dataset downloaded from kaggle. There are total 30 columns and 996 rows present in dataset.
+Abstract :
+This statistical analysis examines key performance metrics across the global YouTube platform. The report highlights that T-Series dominates multiple categories, ranking as the most subscribed channel, the top earner, and leading in the Music category. The report provides valuable insights into content performance trends and creator success metrics, offering a comprehensive overview of the YouTube ecosystem's current landscape.
+Tools Used :
+Microsoft Excel , Microsoft Power Bi
 
-Sales Analytics
-
-Total sales performance tracking ($1M)
-Average transaction value monitoring ($141)
-Historical sales trends visualization (2010-2020)
-Comparative analysis across store types and tiers
-
-
-Customer Satisfaction Metrics
-
-Overall rating analysis (4.0/5.0 average)
-9K ratings distribution visualization
-Rating breakdown by product categories and store types
-
-
-Store Performance Analysis
-
-Tier-based performance tracking (Tier 1, 2, and 3)
-Store type comparison (Supermarket Types 1-3, Grocery Stores)
-Outlet size and establishment year correlation
-
-
-Product Analytics
-
-Item categorization by fat content (Low Fat vs Regular)
-Product category performance metrics
-Item visibility impact analysis
-
-
-
- Interactive Filtering Capabilities
-The dashboard features robust filtering options to slice data by:
-
-Outlet Location Type
-Outlet Size
-Item Type
-Fat Content
-
- Key Insights
-
-Supermarket Type1 generates the highest revenue ($7.87M)
-Sales peaked around 2018-2019 (~205K) before stabilizing
-Consistent 4-star ratings across product categories
-Tier 3 stores contribute approximately 39% of total revenue
-
- Technical Details
-Built With
-
-Microsoft Power BI
-Data modeling with DAX
-Custom visualizations
-
-Data Sources
-
-Blinkit transaction database
-Customer reviews system
-Store management database
-
-Usage Guidelines
-
-Filtering Data: Use the slicers on the left panel to filter by outlet type, size, and item categories
-Drilling Down: Click on any chart element to drill down into detailed information
-Exporting Reports: Use Power BI's export functionality to extract reports in various formats
-
- Updating Data
-The dashboard is configured to refresh data:
-
-Automatically once per day (configurable)
-Manually through the "Refresh" button
+Steps Involved in Building the Project :
+➢
+Uploaded data into power bi.
+➢
+Transformed data : Removed null values , Removed duplicates , Removed unwanted columns , Cheked for data types.
+➢
+Calculated DAX queries for Category count, Estimated earnings, Most popular category, Most subscribe, Most viewed channel, Top earner, Total estimated earning, Total subscribers, Total Uploads, Total Views.
+➢
+Created slicers for different countries.
+➢
+Created cards for Total Youbers, Most Viewed Channel, Most Subscribed Channel, Category, Top Earner.
+➢
+Created pie chart for video views by category.
+➢
+Created line chart for top 5 youtubers by views.
+➢
+Created stacked bar chart for top 5 subscribers by uploads.
+➢
+Created treemap for top 5 youtubers by subscribers.
+➢
+Created area chart for total estimated earning by youtuber.
+➢
+Did formatting of all charts and project title.
