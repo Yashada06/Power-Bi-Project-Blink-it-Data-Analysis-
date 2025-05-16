@@ -26,9 +26,9 @@ Created pie chart for video views by category.
 Created line chart for top 5 youtubers by views.
 
 Created stacked bar chart for top 5 subscribers by uploads.
-➢
+
 Created treemap for top 5 youtubers by subscribers.
-➢
+
 Created area chart for total estimated earning by youtuber.
-➢
+
 Did formatting of all charts and project title.
